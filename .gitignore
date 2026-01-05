@@ -2,12 +2,10 @@
 node_modules/
 .env
 
-# Build
+# Build folders
 dist/
 build/
 
-# Logs
-*.log
-
-# OS
+# OS files
 .DS_Store
+Thumbs.db
